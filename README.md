@@ -1,4 +1,11 @@
 ## Banking-Program
+
+## Table of Contents
+
+- [Features](#features)
+- [Usage](#usage)
+
+## Feautres
 - This is the C++ program of Banking.
 - Program accepts input Choice from User.
 - After taking input choice from user Operations are performed
